@@ -1,9 +1,11 @@
 # Bike Sales Data Analysis
 
 ## Project Team
-| **Team Name**   | **Members**                                                                                   |
-|-----------------|----------------------------------------------------------------------------------------------|
-| Data Cyclers    | 1. Ardian Vega Carrelino / 215314161<br>2. Prischia Ballo / 215314166<br>3. Putri Yohana Parhusip / 215314169 |
+| **Members** | **NIM**         |
+|-------------|-----------------|
+| Ardian Vega Carrelino | 215314161 |
+| Prischia Ballo        | 215314166 |
+| Putri Yohana Parhusip | 215314169 |
 
 ---
 
