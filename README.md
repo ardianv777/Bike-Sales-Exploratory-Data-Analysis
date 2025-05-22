@@ -1,3 +1,4 @@
+> **Disclaimer:** This project was originally conducted in Indonesian. For the purpose of publishing on GitHub, all content has been translated into English.
 # Bike Sales Data Analysis
 
 ## Project Team
@@ -52,8 +53,6 @@ This project presents an exploratory data analysis (EDA) of a comprehensive bike
 3. Use the findings to inform business decisions related to bike sales.
 
 ---
-> **Disclaimer:** This project was originally conducted in Indonesian. For the purpose of publishing on GitHub, all content has been translated into English.ject was originally conducted in Indonesian. For the purpose of publishing on GitHub, all content has been translated into English.
-
 
 ## Requirements
 
