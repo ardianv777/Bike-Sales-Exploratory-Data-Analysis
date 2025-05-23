@@ -1,8 +1,8 @@
 > **Disclaimer:** This project was originally conducted in Indonesian. For the purpose of publishing on GitHub, all content has been translated into English.
 # Bike Sales Data Analysis
 
-## Project Team
-| **Members** | **NIM**         |
+## Group Members
+| **Student Name** | **Student ID**         |
 |-------------|-----------------|
 | Ardian Vega Carrelino | 215314161 |
 | Prischia Ballo        | 215314166 |
