@@ -46,11 +46,20 @@ This project presents an exploratory data analysis (EDA) of a comprehensive bike
 
 ---
 
+## Power BI Dashboard
+
+The project includes a Power BI dashboard to present the analysis in an interactive and user-friendly format.
+
+![Power BI Dashboard](Power%20BI%20Dashboard%20Image.png)
+
+---
+
 ## How to Use
 
 1. Open the Jupyter Notebook and run each cell sequentially.
 2. Review the markdown explanations and visualizations for insights.
-3. Use the findings to inform business decisions related to bike sales.
+3. Open the Power BI file (`.pbix`) to explore the interactive dashboard.
+4. Use the findings to inform business decisions related to bike sales.
 
 ---
 
@@ -61,3 +70,4 @@ This project presents an exploratory data analysis (EDA) of a comprehensive bike
 - numpy
 - matplotlib
 - seaborn
+- Power BI Desktop (for `.pbix` file)
